@@ -1,0 +1,16 @@
+{
+	"intents": [
+		{
+			"type": "text",
+			"word": false,
+			"patterns": ["/help", "/start", "начать", "start"],
+			"response": ["Привіт, спасибі, що використовуєш нашого бота!"]
+		},
+		{
+			"type": "text",
+			"word": false,
+			"patterns": ["kekw"],
+			"response": ["da"]
+		}
+	]
+}
